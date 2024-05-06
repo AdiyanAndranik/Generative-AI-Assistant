@@ -30,4 +30,3 @@ This project provides a FastAPI application for managing and analyzing venture c
     GET /find_similar/?url=http://www.example.com/
     ```
 
-The examples provided for each endpoint demonstrate how to interact with the API using the specified URL and parameters.
